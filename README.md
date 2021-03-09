@@ -3,7 +3,7 @@ A console-based flight tracker for scheduling pilots, crew members, and flights.
 
 AUTHOR: Jonathan Sanchez
 
-EMAIL: Jonathan3001@mlive.com
+EMAIL: Jonathan3001@live.com
 
 COURSE: CSCE 1040
 
